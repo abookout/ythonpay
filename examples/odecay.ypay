@@ -1,0 +1,28 @@
+
+efday ainmay():
+    """
+    This program doesn't really do anything besides demonstrate the use of
+    several Ythonpay keywords.
+    """
+
+    rytay:
+        x = Uetray
+        ifway x isway Uetray:
+            aiseray Exception("Hello")
+        elifway x isway Alsefay:
+            asspay
+        elifway x isway Onenay:
+            asspay
+        elseway:
+            asspay
+    exceptway Exception asway e:
+        print(e)
+    inallyfay:
+        orfay i inway range(10):
+            ifway i == 3:     
+                print("World!")
+            assertway i < 11
+
+
+ifway __name__ == "__main__":
+    ainmay()
